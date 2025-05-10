@@ -1,0 +1,10 @@
+accuracy: 0.9113233287858117
+precision: 0.7407407407407407
+recall: 0.13986013986013987
+f1_score: 0.23529411764705882
+auc: 0.9022723308437595
+confusion_matrix: [[1316    7]
+ [ 123   20]]
+
+Definition of Accuracy-Recall Imbalance Index: Accuracy - Recall.
+Explanation: This index evaluates the difference between accuracy and recall. On a balanced dataset, accuracy and recall should be similar. A large difference indicates that the model is not performing well on the minority class.
